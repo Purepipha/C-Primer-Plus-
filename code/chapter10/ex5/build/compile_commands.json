@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/code/C++/chapter10/ex5/build",
+  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\ex5_usestack.dir\\ex5_usestack.cpp.obj -c D:\\code\\C++\\chapter10\\ex5\\ex5_usestack.cpp",
+  "file": "D:/code/C++/chapter10/ex5/ex5_usestack.cpp"
+},
+{
+  "directory": "D:/code/C++/chapter10/ex5/build",
+  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\ex5_usestack.dir\\stack.cpp.obj -c D:\\code\\C++\\chapter10\\ex5\\stack.cpp",
+  "file": "D:/code/C++/chapter10/ex5/stack.cpp"
+}
+]

@@ -1,0 +1,3 @@
+Hello, I am C++. I am great useful. 
+Nice to meet you.
+You can learn me, fight! 
